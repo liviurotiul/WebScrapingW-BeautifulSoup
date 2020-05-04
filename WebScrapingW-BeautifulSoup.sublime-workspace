@@ -1,0 +1,1097 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valid",
+				"validation_rewards\tstatement"
+			],
+			[
+				"epis",
+				"episode\tstatement"
+			],
+			[
+				"VA",
+				"VALIDATION_FREQ\tstatement"
+			],
+			[
+				"inst",
+				"inst_rewards"
+			],
+			[
+				"OP",
+				"OPT_FREQ_END\tstatement"
+			],
+			[
+				"OPT_FREQ_",
+				"OPT_FREQ_START\tstatement"
+			],
+			[
+				"OPT",
+				"OPT_FREQ\tstatement"
+			],
+			[
+				"curr",
+				"current_state\tstatement"
+			],
+			[
+				"get_s",
+				"get_screen\tstatement"
+			],
+			[
+				"last",
+				"last_obs\tstatement"
+			],
+			[
+				"Test",
+				"TEST\tstatement"
+			],
+			[
+				"Al",
+				"ALGORITHM\tstatement"
+			],
+			[
+				"episo",
+				"episode_durations\tstatement"
+			],
+			[
+				"epsi",
+				"episode_durations"
+			],
+			[
+				"to",
+				"tolist"
+			],
+			[
+				"E",
+				"ENVIRIONMENT\tstatement"
+			],
+			[
+				"Ca",
+				"CartPole-v0"
+			],
+			[
+				"get",
+				"get_screen_lander\tfunction"
+			],
+			[
+				"Env",
+				"ENVIRIONMENT\tstatement"
+			],
+			[
+				"curren",
+				"current_screen\tstatement"
+			],
+			[
+				"next",
+				"next_state\tstatement"
+			],
+			[
+				"opt",
+				"optimize_double_DQN_PER\tfunction"
+			],
+			[
+				"AL",
+				"ALGORITHM\tstatement"
+			],
+			[
+				"MaxPool",
+				"MaxPool2d\tclass"
+			],
+			[
+				"old",
+				"old_efficiency"
+			],
+			[
+				"opti",
+				"optimizer2\tstatement"
+			],
+			[
+				"DO",
+				"DOUBLE_DQN"
+			],
+			[
+				"TRA",
+				"TRAIN"
+			],
+			[
+				"mo",
+				"model_name"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"bes",
+				"bestval_net"
+			],
+			[
+				"best",
+				"bestaverage_net"
+			],
+			[
+				"episode",
+				"episode_durations"
+			],
+			[
+				"non",
+				"non_final_mask"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"rewar",
+				"reward_batch"
+			],
+			[
+				"pr",
+				"preprocesing"
+			],
+			[
+				"isnt",
+				"inst_rewards"
+			],
+			[
+				"online",
+				"online_net"
+			],
+			[
+				"np",
+				"npimg"
+			],
+			[
+				"onli",
+				"online_net"
+			],
+			[
+				"state",
+				"state_action_values"
+			],
+			[
+				"ex",
+				"expected_state_action_values"
+			],
+			[
+				"Va",
+				"VALIDATION_FREQ"
+			],
+			[
+				"step",
+				"steps_done"
+			],
+			[
+				"se",
+				"select_action"
+			],
+			[
+				"Tar",
+				"TARGET_UPDATE"
+			],
+			[
+				"plot",
+				"plot_durations"
+			],
+			[
+				"Ba",
+				"BATCH_SIZE"
+			],
+			[
+				"time",
+				"time_step"
+			],
+			[
+				"bat",
+				"batch"
+			],
+			[
+				"curre",
+				"current_state"
+			],
+			[
+				"B",
+				"BATCH_SIZE"
+			],
+			[
+				"mem",
+				"memory"
+			],
+			[
+				"on",
+				"online_net"
+			],
+			[
+				"w",
+				"width\tstatement"
+			],
+			[
+				"len",
+				"length\tstatement"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"fun",
+				"function\tparam"
+			],
+			[
+				"fu",
+				"function\tparam"
+			],
+			[
+				"x",
+				"x_L\tparam"
+			],
+			[
+				"N",
+				"NO_OF_DIMENSIONS\tstatement"
+			],
+			[
+				"funct",
+				"function\tparam"
+			],
+			[
+				"operator",
+				"operatori"
+			],
+			[
+				"separator",
+				"separatori"
+			],
+			[
+				"ca",
+				"caracter_curent"
+			],
+			[
+				"litera",
+				"literal_check"
+			],
+			[
+				"Separator",
+				"Separators"
+			],
+			[
+				"I",
+				"IO"
+			],
+			[
+				"c",
+				"citireNori"
+			],
+			[
+				"read",
+				"readInt"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"In",
+				"Infrangere"
+			],
+			[
+				"max",
+				"max2"
+			],
+			[
+				"iN",
+				"Int"
+			],
+			[
+				"log",
+				"logIncrement"
+			],
+			[
+				"lis",
+				"listb"
+			],
+			[
+				"li",
+				"listb"
+			],
+			[
+				"po",
+				"potential_nodes\tparam"
+			],
+			[
+				"adj",
+				"adjency_matrix"
+			],
+			[
+				"vis",
+				"visualize_graph\tfunction"
+			],
+			[
+				"nod",
+				"node_locations\tstatement"
+			],
+			[
+				"co",
+				"compute_neighbour_nodes\tfunction"
+			],
+			[
+				"poin",
+				"point_cloud\tstatement"
+			],
+			[
+				"node",
+				"node_locations\tstatement"
+			],
+			[
+				"nd",
+				"node_locations\tstatement"
+			],
+			[
+				"sca",
+				"scaling_param\tstatement"
+			],
+			[
+				"sor",
+				"sorted_image_detections\tstatement"
+			],
+			[
+				"de",
+				"detections\tstatement"
+			],
+			[
+				"sort",
+				"sorted_indices\tstatement"
+			],
+			[
+				"tes",
+				"test_files"
+			],
+			[
+				"pre",
+				"precision_score"
+			],
+			[
+				"scor",
+				"scores_bool\tstatement"
+			],
+			[
+				"new",
+				"new_img\tstatement"
+			],
+			[
+				"sc",
+				"scores_bool\tstatement"
+			],
+			[
+				"image",
+				"image_size\tstatement"
+			],
+			[
+				"file",
+				"file_names\tparam"
+			],
+			[
+				"ima",
+				"image_detections\tstatement"
+			],
+			[
+				"fil",
+				"file_names\tstatement"
+			],
+			[
+				"score",
+				"scores"
+			],
+			[
+				"feat",
+				"features\tstatement"
+			],
+			[
+				"img",
+				"img_array\tstatement"
+			],
+			[
+				"ne",
+				"negative_features\tstatement"
+			],
+			[
+				"ec",
+				"except\tkeyword"
+			],
+			[
+				"poi",
+				"point_cloud\tstatement"
+			],
+			[
+				"e",
+				"evalExp"
+			],
+			[
+				"bloc",
+				"blocuriAleatoare"
+			],
+			[
+				"pa",
+				"patch22\tstatement"
+			],
+			[
+				"path",
+				"patch21\tstatement"
+			],
+			[
+				"pat",
+				"patch12\tstatement"
+			],
+			[
+				"patch",
+				"patch2\tstatement"
+			],
+			[
+				"blo",
+				"block1\tparam"
+			],
+			[
+				"bl",
+				"block1\tparam"
+			],
+			[
+				"pixe",
+				"pixel_eucludean_patch\tfunction"
+			],
+			[
+				"idx",
+				"idx_matrix\tstatement"
+			],
+			[
+				"get_",
+				"get_patches_vertical\tfunction"
+			],
+			[
+				"pi",
+				"pixel2"
+			],
+			[
+				"pixel",
+				"pixel_eucludean"
+			],
+			[
+				"pixelro",
+				"pixel_row1"
+			],
+			[
+				"pix",
+				"pixel_patch1"
+			],
+			[
+				"pixel_pat",
+				"pixel_patch1"
+			],
+			[
+				"arr",
+				"array_2_cmp"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ver",
+				"verifica3"
+			],
+			[
+				"is",
+				"isPositive"
+			],
+			[
+				"nu",
+				"num_blocks"
+			],
+			[
+				"ar",
+				"array_2_cmp_1"
+			],
+			[
+				"block",
+				"blocks"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Build With: Python"
+			],
+			[
+				"py",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Close All"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus ",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus us",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"terminus ut",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Channel"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"packer",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 83.0,
+		"history":
+		[
+			"terminal",
+			"parent",
+			"h",
+			"--h",
+			"h",
+			"debug",
+			"c",
+			"n",
+			"debug",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/liviu/Documents/Dev/ES6News/src/WebScrapingW-BeautifulSoup"
+	],
+	"file_history":
+	[
+		"/home/liviu/Documents/Dev/ES6News/src/ES6News/main.py",
+		"/home/liviu/Documents/Dev/ES6News/src/ES6News/main,py",
+		"/home/liviu/Documents/Dev/trydjango/src/trydjano/manage.py",
+		"/home/liviu/Documents/Dev/trydjango/src/trydjano/trydjano/settings.py",
+		"/home/liviu/Documents/facultate/Reinforcement-Learning-with-DQN/utils.py",
+		"/home/liviu/Documents/facultate/Reinforcement-Learning-with-DQN/replay_memory.py",
+		"/home/liviu/Documents/facultate/Reinforcement-Learning-with-DQN/DQN.py",
+		"/home/liviu/Documents/facultate/Reinforcement-Learning-with-DQN/Cartpole_DQN.py",
+		"/home/liviu/Documents/facultate/Reinforcement-Learning-with-DQN/Cartpole_DQN.pyc",
+		"/home/liviu/Documents/proiect_bit/proiect/CartpoleEnv.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/utils.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/replay_memory.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/DQN.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/Cartpole_DQN.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/train.py",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/342_Rotaru_Liviu-Iulian_proiect2.cpp",
+		"/home/liviu/Documents/facultate/ProiectBitdefender/env_selector.py",
+		"/home/liviu/Documents/facultate/proiect_to/main.py",
+		"/home/liviu/Documents/proiect_bit/neat-python/examples/openai-lander/evolve.py",
+		"/home/liviu/Documents/proiect_bit/proiect/main.py",
+		"/home/liviu/Documents/Cartpole/main.py",
+		"/home/liviu/Documents/facultate/ts/342_Rotaru_Liviu-Iulian_proiect2.cpp",
+		"/home/liviu/Documents/facultate/proiect_to/test2.py",
+		"/home/liviu/Desktop/3421_Rotaru_Liviu_tema1.cpp",
+		"/home/liviu/Documents/facultate/tc/nico/analyzer.cpp",
+		"/home/liviu/Documents/facultate/train.py",
+		"/home/liviu/Documents/facultate/ts/342_Andrei_Nicolaescu_proiect2.cpp",
+		"/home/liviu/Documents/Cartpole/main2.py",
+		"/home/liviu/Documents/proiect_bit/proiect/main.p",
+		"/home/liviu/Documents/facultate/proiect_to/test2",
+		"/home/liviu/Desktop/342_Rotaru_Liviu_tema1.cpp",
+		"/home/liviu/Documents/facultate/tc/ddda/analyzer.cpp",
+		"/home/liviu/Documents/fortran/tut.f90",
+		"/home/liviu/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/liviu/Documents/facultate/PD/.pregatireex.hs.swp",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema4/cod/Visualize.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema4/cod/Parameters.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema4/cod/RunProject.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema4/cod/FacialDetector.py",
+		"/home/liviu/Documents/facultate/PD/lab12.hs",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/midi2text.py",
+		"/home/liviu/Documents/facultate/SO/laborator7/laborator71.c",
+		"/home/liviu/Documents/facultate/SO/laborator6/laborator62.c",
+		"/home/liviu/Documents/facultate/SO/laborator6/laborator61.c",
+		"/home/liviu/Documents/facultate/SO/laborator5/lab51.c",
+		"/home/liviu/Documents/facultate/SO/laborator4/laborator43.c",
+		"/home/liviu/Documents/facultate/SO/laborator4/laborator42.c",
+		"/home/liviu/Documents/facultate/SO/laborator4/laborator41.c",
+		"/home/liviu/Documents/facultate/SO/laborator2/lab22.c",
+		"/home/liviu/Documents/facultate/SO/laborator2/lab21.c",
+		"/home/liviu/Documents/facultate/PD/lab4.hs",
+		"/home/liviu/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+		"/home/liviu/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/liviu/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/liviu/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/liviu/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema3/cod/Parameters.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema3/cod/CreateImage.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema3/cod/RunProject.py",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/utils.py",
+		"/home/liviu/Documents/facultate/PD/lab7.hs",
+		"/home/liviu/Documents/facultate/PD/lab8.hs",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/main.py",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/Astar.py",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/drone_lidar.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/cod/AddPiecesMosaic.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema2/cod/SelectPath.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema2/cod/Parameters.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema2/cod/Resize_Image.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/tema2/cod/RunProject.py",
+		"/home/liviu/Documents/facultate/PD/lab.7.hs",
+		"/home/liviu/Documents/facultate/PD/ex1.hs",
+		"/home/liviu/Documents/facultate/vedere artificiala/cod/RunProject.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/cod/BuildMosaic.py",
+		"/home/liviu/Documents/facultate/vedere artificiala/cod/Parameters.py",
+		"/home/liviu/Documents/facultate/PD/ex2.hs",
+		"/home/liviu/Documents/facultate/Vedere artificala/cod/RunProject.py",
+		"/home/liviu/Documents/facultate/Vedere artificala/cod/BuildMosaic.py",
+		"/home/liviu/Documents/facultate/Vedere artificala/cod/Parameters.py",
+		"/home/liviu/Documents/facultate/Vedere artificala/cod/AddPiecesMosaic.py",
+		"/home/liviu/Documents/train.py",
+		"/home/liviu/Desktop/numba_example.py",
+		"/home/liviu/Documents/test.jl",
+		"/home/liviu/Documents/Github/Song-Generator/model.py",
+		"/home/liviu/Documents/my_projects/ml/proiect_ia/src.py",
+		"/home/liviu/Desktop/ex.py",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/A*.py",
+		"/home/liviu/Documents/Unreal/AirSim/PythonClient/multirotor/hello_drone.py",
+		"/home/liviu/Documents/computer-networks-master/laborator2/src/tcp_client.py",
+		"/home/liviu/Documents/computer-networks-master/laborator2/src/tcp_handshake.py",
+		"/home/liviu/Documents/arpspoof.py",
+		"/home/liviu/Documents/computer-networks-master/laborator2/src/tcp_server.py",
+		"/home/liviu/Documents/facultate/retele/lab2.py",
+		"/home/liviu/Documents/facultate/Pl/pregatire.pl",
+		"/home/liviu/Documents/facultate/Pl/ultimlab.pl",
+		"/home/liviu/Documents/my_projects/alg_gen/particle_swarm_opt.py",
+		"/home/liviu/Documents/facultate/Pl/program.pl",
+		"/home/liviu/Documents/facultate/Pl/lab2.pl",
+		"/home/liviu/Documents/Unreal/AirSim/Unreal/Environments/Blocks/update_from_git.sh",
+		"/home/liviu/Documents/Unreal/AirSim/Unreal/Environments/Blocks/GenerateProjectFiles.sh",
+		"/home/liviu/Documents/my_projects/ml/pentru iulica/train2.py",
+		"/home/liviu/Documents/my_projects/ml/pentru iulica/train1.py",
+		"/home/liviu/Documents/my_projects/ml/pentru iulica/3-fold.py",
+		"/home/liviu/Documents/my_projects/ml/licenta/DQNcar.py",
+		"/home/liviu/Documents/my_projects/ml/pentru iulica/src.py",
+		"/home/liviu/Documents/facultate/Pl/lab3.pl",
+		"/home/liviu/Documents/my_projects/ml/A*.py",
+		"/home/liviu/Documents/my_projects/ml/pentruBrinzi.py",
+		"/home/liviu/Documents/my_projects/ml/k_armed_bandit/k_armed_bandit.py",
+		"/usr/local/cuda/bin/cuda-uninstaller",
+		"/home/liviu/Documents/my_projects/ml/nake.py",
+		"/home/liviu/Documents/my_projects/ml/SVM.py",
+		"/home/liviu/Documents/my_projects/ml/lab3.pl",
+		"/home/liviu/Documents/my_projects/ml/k_armed_bandit/snake_RL.py",
+		"/home/liviu/Documents/my_projects/ml/basic_ml_lib/main.py",
+		"/home/liviu/Documents/facultate/Pl/program.pro",
+		"/home/liviu/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/liviu/Documents/my_projects/ml/Cifar10-Clasifier-master/Cifar10.py",
+		"/home/liviu/Documents/my_projects/ml/q_learning.py",
+		"/home/liviu/Documents/my_projects/alg_gen/password/password.py",
+		"/home/liviu/Documents/testfile.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"optimiz",
+			"an unk",
+			"opt_freq",
+			"OPT_FREQ",
+			"validation_fin",
+			"plt_f",
+			"validation_final",
+			"5",
+			"sbs",
+			"plt.sh",
+			"input",
+			"opti",
+			"OPT_FREQ",
+			"if not test",
+			"opt_freq = ",
+			"t = ",
+			"20",
+			"VALI",
+			"plot_dura",
+			"plt_dura",
+			"Adam",
+			"optimize_",
+			"DEB",
+			"replay",
+			".to(de",
+			".to(devi",
+			"optimi",
+			".train",
+			"OPT_",
+			"opti",
+			"memory = ",
+			"policy_net",
+			"ADA",
+			"if not TES",
+			"replay",
+			"if not TEST",
+			"repla",
+			"replay",
+			"episode_dura",
+			"validation_val",
+			"steps_done += 1",
+			"def selec",
+			"steps_done",
+			"25",
+			"get_screen",
+			"elect_action_rand",
+			"optimizer1",
+			"pdb;",
+			"pdb",
+			"DOUBLE_DQN",
+			"ALGO",
+			"PRIORITIZED",
+			"DOUBLE_DQN",
+			"onli",
+			"online",
+			"get_screen()",
+			"epispde",
+			"EPS",
+			"means",
+			"targe",
+			"DQN",
+			"net",
+			"\t\tself.conv2 = nn.Conv2d(32, 64, kernel_size=5, stride=2) #64\n\t\tself.bn2 = nn.BatchNorm2d(64)",
+			"opti",
+			"print",
+			"n_action",
+			"()\n",
+			"env.",
+			"display",
+			"plt.figure(",
+			"    plt.figure(1)",
+			"env",
+			"non_final_mask",
+			"capa",
+			"DQN",
+			"resize",
+			"env.",
+			"screen_width",
+			"RandRealDist",
+			"def get_s",
+			"print",
+			"Transition",
+			"size()",
+			"k",
+			"MI",
+			"crtIndex",
+			"Beta2",
+			"Beta1",
+			"distributie",
+			"generato",
+			"generat",
+			"generator",
+			"RandomEngine",
+			"rd",
+			"nr_iteratii",
+			"corect",
+			"uniforme",
+			"endl",
+			"frecventeRel",
+			"begin",
+			"histograma",
+			"inRange",
+			"min",
+			"MAX",
+			"max",
+			"max_element",
+			"print",
+			"std::",
+			"std::cout <<",
+			"histo",
+			"dimension",
+			"option",
+			"'\\n",
+			"<<'\\n",
+			"<< '\\n",
+			"literal_check",
+			"//",
+			"exit",
+			"this->vector_stari",
+			"\"multi_line_comment\"",
+			" \"line_comment\"",
+			"vector_stari",
+			"this->afiseaza_token(this->buffer)",
+			"afiseaza_re",
+			"\t\t\t\tthis->afiseaza_token(this->buffer);\n\t\t\t\tthis->reinitializeaza();",
+			"this",
+			"->",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 432.0
+	},
+	"output.exec":
+	{
+		"height": 42.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 185.0
+	},
+	"pinned_build_system": "",
+	"project": "WebScrapingW-BeautifulSoup.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
