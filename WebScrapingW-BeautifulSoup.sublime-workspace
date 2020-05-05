@@ -523,7 +523,7 @@
 			"file": "main.py",
 			"settings":
 			{
-				"buffer_size": 522,
+				"buffer_size": 692,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1025,15 +1025,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 522,
+						"buffer_size": 692,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								522,
-								522
+								616,
+								616
 							]
 						],
 						"settings":
